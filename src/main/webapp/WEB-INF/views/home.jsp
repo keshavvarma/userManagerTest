@@ -5,7 +5,7 @@
 		<title>Home</title>
 	</head>
 <body>
-	<h1>User management control3</h1>
+	<h1>User management control9</h1>
 	
 	<table>
 		<c:forEach var="user" items="${users}">
